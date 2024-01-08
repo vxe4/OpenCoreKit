@@ -1,0 +1,3 @@
+- [] start writing the rust script
+- [] possibly convert profiles into json files
+- [] actually start the project
